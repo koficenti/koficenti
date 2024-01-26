@@ -17,7 +17,7 @@
    - TALL
 
 
-📫 Let's connect! Feel free to reach out to me on [LinkedIn](https://linkedin.com/ln/koficenti), [Twitter](https://twitter.com/koficenti), or check out my [Personal Website](https://astrum.today/).
+📫 Let's connect! Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/koficenti), [Twitter](https://twitter.com/koficenti), or check out my [Personal Website](https://astrum.today/).
 
 
 Happy coding! ✨
