@@ -1,5 +1,6 @@
 👋 Hello, I'm Josh
 
+🎹 IDE/Text Editor: IntelliJ IDEA
 
 🚀 I'm a full stack developer passionate about everything tech. My expertise lies in web technologies such as laravel (php), react (js), django (python) but also I'm familar with other stuff such as app development (java, flutter, react-native), and I enjoy drinking coffee very much while programming cool things.
 
