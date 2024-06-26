@@ -1,5 +1,3 @@
-Specs:
-
    Desktop:
    
       OS: Fedora (Budgie Spin)
