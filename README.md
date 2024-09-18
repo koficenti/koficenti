@@ -1,16 +1,16 @@
    Desktop:
    
-      OS: Fedora (Budgie Spin)
+      OS: Kubuntu
       
       CPU: 12th Gen Intel® Core™ i5-12400F
       
       RAM: 16GB (really?)
       
-      GPU: Ceforce RTX 3050
+      GPU: Geforce RTX 3050
       
    Laptop:
    
-      OS: Linux Mint
+      OS: Kubuntu
       
       CPU: uhh something amd (FIXME: Ryzen 5?)
       
