@@ -1,43 +1,23 @@
-   Desktop:
-   
-      OS: Kubuntu
-      
-      CPU: 12th Gen Intel® Core™ i5-12400F
-      
-      RAM: 16GB (really?)
-      
-      GPU: Geforce RTX 3050
-      
-   Laptop:
-   
-      OS: Kubuntu
-      
-      CPU: uhh something amd (FIXME: Ryzen 5?)
-      
-      RAM: 16GB
-      
-      GPU: Radeon RX 5600M
-      
-   Setup:
-   
-      Editor: Emacs (DOOM <3) w/ Tmux
-      
-      Browser: Firefox & Chromium
-      
-      Keyboard: US Dvorak
-      
-      Notes: Obsidian (it's pretty good)
-      
-   Likes:
-   
-      Languages: (in order) C++, Rust, Go, Kotiln, Typescript, Haskell (Endofunctors and Monads?)... eh then some
-      
-      Movies: Oh I guess I dont have any favorites... The Equalizer movies were pretty good though.
-      
-      Books: I really need a library card.
-      
-   Dislikes:
-   
-      Electron (Necessary evil?)
-      
-      ... I thought I would have more dislikes ...
+# Hey, I'm Josh 👋
+
+![Profile Banner](https://img.lovepik.com/background/20211021/large/lovepik-cool-line-technology-banner-background-image_400112106.jpg)
+
+## 🛠️ Technologies & Tools
+
+- Languages: Golang, Rust, Typescript, Javascript, Lua, C#, C++, PHP, etc.
+- Frameworks: React (Next.js), Svelte, Angular, Laravel, Gin, etc.
+- Databases: MySQL, PostgreSQL
+- Tools: Neovim, Git, Docker, Vscode, etc.
+
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=koficenti&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+
+## 🌍 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/koficenti)
+- [Twitter](https://x.com/koficenti)
+
+Thanks for visiting my profile! 🚀
